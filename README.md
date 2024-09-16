@@ -9,3 +9,7 @@
 * Составление баг-репортов
 * Работа в таск-трекере 
 * Участие в командных синках
+
+**Сертификат:**
+
+![](https://github.com/ViktoryiaKaplunHryts/ViktoryiaKaplunHryts/blob/main/certificates/Screenshot_17.png)
